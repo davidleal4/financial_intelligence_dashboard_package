@@ -1,0 +1,7 @@
+# Sensitive/Local files
+.env
+.DS_Store
+__pycache__/
+
+# Data directory 
+data/
